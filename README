@@ -1,6 +1,6 @@
 This is a "plugin" for the Video Disk Recorder (VDR).
 
-Written by:                  Marc Wernecke <zulu@zulu-entertainment.de>
+Written by:                  Marc Wernecke < z u l u @ z u l u - e n t e r t a i n m e n t . d e >
 
 Project's homepage:          http://www.zulu-entertainment.de
 
@@ -24,7 +24,7 @@ Also I took some inspiration from other plugins like extrecmenu...
 
 Requirements:
 -------------
-VDR >= 1.4.5
+VDR >= 2.3.1
 
 
 Installation:
